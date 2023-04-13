@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Back End & Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [cv.hamsterkaget.my.id](cv.hamsterkaget.my.id)
+- 👨‍💻 All of my projects are available at [hamsterkaget.com](hamsterkaget.com)
 
-- 📝 I regularly write articles on [hamsterkaget.my.id](hamsterkaget.my.id)
+- 📝 I regularly write articles on [blog.hamsterkaget.com](blog.hamsterkaget.com)
 
 - 📫 How to reach me **radjaauliaalramdani@gmail.com**
 
-- 📄 Know about my experiences [cv.hamsterkaget.my.id](cv.hamsterkaget.my.id)
+- 📄 Know about my experiences [hamsterkaget.com](hamsterkaget.com)
 
-- ⚡ Fun fact **I love 2d girls**
+- ⚡ Fun fact **I hate functional programming (oop is my favorite)**
 
 <h3 align="center">Front & Back End:</h3>
 <p align="center">
