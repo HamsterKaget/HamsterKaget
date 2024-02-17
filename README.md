@@ -1,19 +1,19 @@
 [![MasterHead](https://i.imgur.com/xSnH8pv.png)](https://hamsterkaget.my.id)
 
 <h1 align="center">Hola 👋, I'm Radja Aulia A.K.A Hamster Kaget</h1>
-<h3 align="center">Just 16 Y.O programmer & weebs who's like build web and crossplatform application</h3>
+<h3 align="center">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
 <hr>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamsterKaget&theme=dracula&layout=compact&langs_count=10" alt="hamsterkaget" /></p>
 
 - 🌱 I’m currently learning **Back End & Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [hamsterkaget.com](hamsterkaget.com)
+- 👨‍💻 All of my projects are available at [hamskaproject.my.id](hamskaproject.my.id)
 
-- 📝 I regularly write articles on [blog.hamsterkaget.com](blog.hamsterkaget.com)
+- 📝 I regularly write articles on [blog.hamskaproject.my.id](blog.hamskaproject.my.id)
 
 - 📫 How to reach me **radjaauliaalramdani@gmail.com**
 
-- 📄 Know about my experiences [hamsterkaget.com](hamsterkaget.com)
+- 📄 Know about my experiences [hamskaproject.my.id](hamskaproject.my.id)
 
 - ⚡ Fun fact **I hate functional programming (oop is my favorite)**
 
